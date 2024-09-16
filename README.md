@@ -8,4 +8,5 @@
  -This website is built with html, css and boostrap
  
  # Short GIF
-  
+  ![UDEMIG-WEBSITE](https://github.com/user-attachments/assets/429afbc1-09e0-4812-b9fb-3c4b0588faa9)
+
