@@ -4,7 +4,7 @@
 -A compact, up-to-date and useful design was created.
 -It has a responsive design and is compatible with mobile and tablets.
 
- #Technologies
+# Technologies
  -This website is built with html, css and boostrap
  
  # Short GIF
